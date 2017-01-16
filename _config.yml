@@ -1,0 +1,124 @@
+# Where things are
+source:       .
+destination:  ./_site
+plugins_dir:  ./_plugins
+layouts_dir:  ./_layouts
+paginate:     10
+
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+textile_ext:  "textile"
+
+# Filtering Content
+show_drafts:  null
+limit_posts:  0
+future:       true
+unpublished:  false
+
+# Conversion
+#markdown:     kramdown
+#highlighter:  pygments
+lsi:          false
+excerpt_separator: "\n\n"
+
+# Serving
+detach:       false
+port:         4000
+host:         127.0.0.1
+baseurl:      "" # does not include hostname
+
+# Outputting
+permalink:     date
+paginate_path: /page:num
+timezone:      null
+
+
+#Site config
+#title: Jekyll Theme
+description: A website designed from Jekyll theme.
+keywords: Felix,living
+url: https://maoliving.github.io
+feed: /atom.xml
+favicon: https://avatars3.githubusercontent.com/u/25141778?v=3&s=460
+
+#Nav config
+nav:
+  - text: Home
+    url: /index.html
+  - text: Categories
+    url: /navigations/categories.html
+  - text: Archives
+    url: /navigations/archives.html
+  - text: Contact
+    url: /navigations/contact.html
+  - text: Links
+    url: /navigations/links.html
+#  - text: Online CV
+#    url: /Resume/resume_cn.html
+
+#Author config
+author:
+    name: Felix
+    email: maoliving@163.com
+    imgRel: true
+    imageLink: /images/avatar.png
+    simpleIntro: I am the master of my life.
+    detailIntro:
+      <p>A graduate graduated from SJTU. As</p><p> a farmer farming in IT with code. Looking for</p><p> a life living with ordinariness but also wonderfulness.</p><p> Day Day Up!</p>
+
+#Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
+follow:
+  - class: icon-rss
+    url: https://github.com/maoliving.atom
+  - class: icon-github-alt
+    url: https://github.com/maoliving
+#  - class: icon-renren
+#    url: http://renren.com
+#  - class: icon-github-alt
+#    url: http://github.com
+#  - class: icon-twitter
+#    url: http://twitter.com
+# - class: icon-google-plus
+#    url: http://google.com
+#  - class: icon-weibo
+#    url: http://weibo.com/maofg
+
+#Links
+customLinks:
+  - item:
+    - text: StrayBirds Blog Templates
+      url: https://github.com/minixalpha/StrayBirds
+    message: Blog Templates
+  - item:
+    - text: Font Awesome
+      url: http://fortawesome.github.io/Font-Awesome/
+    - text: jQuery
+      url: http://jquery.com/
+    message: Other Links
+
+#googleAnaly, your id link UA-12345678-X
+#googleAnaly:
+#  config: false
+#  id: UA-40169250-1
+
+#comment config
+disqus:
+  config: true
+  id: haluomao
+ 
+########Global config
+username: felix
+baseurl:
+safe: false
+highlighter: rouge #pygments
+gems: [jekyll-paginate]
+
+title: MFG's living Blog
+description: Moving forward everyday.
+disqusname: Blogs
+themename: kunka
