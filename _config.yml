@@ -118,7 +118,7 @@ safe: false
 highlighter: rouge #pygments
 gems: [jekyll-paginate]
 
-title: MFG's living Blog
+title: MFG's Living Blog
 description: Moving forward everyday.
 disqusname: Blogs
 themename: kunka

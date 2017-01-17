@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-What you see now is the Mao Fagui's personal blog web site.
+What you see now is the Mao Fagui's personal living blog web site.
 
-Talk is cheap, show me the code.
+Life is not easy, try to face it with smile.
 
 ### More Information
 
-Under post-graduate, 2015
-School of software, SJTU
+An ordinary employee in Yuewen Cotd.
 
 ### Contact me
 
-[maofg92@163.com](mailto:maofg92@163.com)
+[maoliving@163.com](mailto:maoliving@163.com)
