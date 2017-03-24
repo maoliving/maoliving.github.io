@@ -1,10 +1,12 @@
 ---
 layout: post
-title: IT技巧掌握
-category: tech
+title: think & talk
+category: sentence
 comments: true
 ---
 
 # 收藏一些有故事的句子
 - 今天不想跑,所以才去跑。  
 	正因为困难的艰辛，我们才需要坚持。或许成效你还未看见，但是若你不坚持一下，你永远不知前方的辉煌。
+
+- 中国古代对于水灾、火灾的说法是极为含蓄的,水灾多成为是共工之祸,而火灾便是成为祝融之灾。
