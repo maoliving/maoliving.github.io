@@ -10,7 +10,9 @@ Life is not easy, try to face it with smile.
 
 ### More Information
 
-An ordinary employee in Yuewen Cotd.
+An ordinary employee in Yuewen Cotd. （2017）
+
+A busy but senior programmer in Baidu Cotd. (2019)
 
 ### Contact me
 
